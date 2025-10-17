@@ -12,7 +12,7 @@ let ul = document.querySelector("ul")
 
 omg.addEventListener("click", () => {
     let li = document.createElement("li");
-    li.textContent = "Hello";
+    li.textContent = "Hello1";
     ul.appendChild(li);
 });
 
